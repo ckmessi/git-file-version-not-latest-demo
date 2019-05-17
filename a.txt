@@ -1,1 +1,2 @@
 content in file a.txt
+content added by branch-a
