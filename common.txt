@@ -1,2 +1,3 @@
 content in file common.txt
 common content added by branch-a
+common content added by branch-b
