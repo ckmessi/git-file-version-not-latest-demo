@@ -1,2 +1,1 @@
 content in file b.txt
-content added by branch-b
